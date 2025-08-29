@@ -11,10 +11,4 @@ A professional, interactive, responsive weather app for Jamie — with favorites
 - Favorites (localStorage), Unit & Theme toggles
 - Responsive & accessible
 
-## Run
-```bash
-npm install
-npm run dev
-# Build
-npm run build && npm run preview
-```
+
